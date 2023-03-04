@@ -1,0 +1,18 @@
+ https://aws.amazon.com/nosql/#:~:text=Relational%20databases%20are%20designed%20for,that%20include%20low%2Dlatency%20applications
+
+https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_DevOps.pdf
+
+http://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf
+
+http://aws.amazon.com/certification/certified-cloud-practitioner
+
+http://aws.amazon.com/blogs/training-and-certification/demystifying-your-aws-certification-exam-score/
+
+http://aws.amazon.com/certificates/before-testing/
+
+http://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+
+http://aws.amazon.com/solutions/case-studies/
+
+http://aws.amazon.com/training/ramp-up-guides/
+
